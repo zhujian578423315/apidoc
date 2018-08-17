@@ -1,0 +1,23 @@
+{
+    "name": "leyao/apidoc",
+    "description": "Copy apidoc group file to the document generate folder.",
+    "type": "metapackage",
+    "license": "MIT",
+    "require": {
+        "laravel/framework": "5.5.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Leyao\\ApiDoc\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Leyao\\ApiDoc\\ServiceProvider"
+            ],
+            "aliases": {
+            }
+        }
+    }
+}
