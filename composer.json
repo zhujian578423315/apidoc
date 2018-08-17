@@ -1,8 +1,8 @@
 {
     "name": "leyao/apidoc",
     "description": "Copy apidoc group file to the document generate folder.",
-    "type": "metapackage",
-    "version": "1.7.0",
+    "type": "library",
+    "version": "1.8.0",
     "authors": [
         {
             "name": "mxk",
