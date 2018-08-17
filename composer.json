@@ -2,7 +2,7 @@
     "name": "leyao/apidoc",
     "description": "Copy apidoc group file to the document generate folder.",
     "type": "metapackage",
-    "version": "1.6.0",
+    "version": "1.7.0",
     "authors": [
         {
             "name": "mxk",
@@ -16,6 +16,6 @@
         "psr-4": {
             "ApiDoc\\": "src/"
         }
-    }
+    },
     "minimum-stability": "stable"
 }
