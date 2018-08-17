@@ -3,7 +3,6 @@
     "description": "Copy apidoc group file to the document generate folder.",
     "type": "metapackage",
     "version": "1.1.0",
-    "license": "MIT",
     "require": {
         "laravel/framework": "5.5.*"
     },
@@ -20,6 +19,5 @@
             "aliases": {
             }
         }
-    },
-    "minimum-stability": "dev"
+    }
 }
