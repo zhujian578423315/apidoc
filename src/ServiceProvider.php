@@ -1,6 +1,6 @@
 <?php
 
-namespace Leyao\ApiDoc;
+namespace ApiDoc;
 
 use Illuminate\Support\ServiceProvider as BaseServiceProvider;
 
