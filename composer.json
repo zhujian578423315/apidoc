@@ -2,6 +2,7 @@
     "name": "leyao/apidoc",
     "description": "Copy apidoc group file to the document generate folder.",
     "type": "metapackage",
+    "version": "1.2.0",
     "authors": [
         {
             "name": "mxk",
@@ -13,7 +14,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Leyao\\ApiDoc\\": "src/"
+            "apidoc": "src/"
         }
     },
     "extra": {
